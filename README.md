@@ -37,11 +37,6 @@ I'm a versatile developer skilled in full-stack development, systems programming
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Shiqe's Stats](https://github-readme-stats.vercel.app/api?username=Shiqe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiqe&layout=compact&theme=radical)
 
 ### 🤝 Let's Connect!
 - 📧 Email: mail.meran.dev
