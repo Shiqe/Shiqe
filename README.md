@@ -41,6 +41,7 @@ I'm a versatile developer skilled in full-stack development, systems programming
 
 ### 📊 GitHub Stats
 ![Shiqe's Stats](https://github-readme-stats.vercel.app/api?username=Shiqe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiqe&layout=compact&theme=radical)
 
 ### 🤝 Let's Connect!
 - 📧 Email: mail.meran.dev
