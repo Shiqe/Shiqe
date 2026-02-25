@@ -1,4 +1,5 @@
-# Hi there, I'm Shiqe! 👋
+# Hi there, I'm Shiqe! 👋 
+![Visitors](https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&color=blueviolet&style=flat-square)
 
 I'm a versatile developer skilled in full-stack development, systems programming, and database management. I enjoy building efficient, scalable solutions and mastering new technologies.
 
@@ -39,7 +40,7 @@ I'm a versatile developer skilled in full-stack development, systems programming
 ---
 
 ### 📊 GitHub Stats
-![Shiqe's Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Shiqe's Stats](https://github-readme-stats.vercel.app/api?username=Shiqe&show_icons=true&theme=radical)
 
 ### 🤝 Let's Connect!
-- 📧 Email: [mail.meran.dev]
+- 📧 Email: mail.meran.dev
