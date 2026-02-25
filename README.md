@@ -1,5 +1,5 @@
 # Hi there, I'm Shiqe! 👋 
-![Visitors](https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=[Shiqe]&color=blueviolet&style=flat-square)
 
 I'm a versatile developer skilled in full-stack development, systems programming, and database management. I enjoy building efficient, scalable solutions and mastering new technologies.
 
