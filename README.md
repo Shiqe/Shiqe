@@ -44,14 +44,12 @@ I'm a versatile developer skilled in full-stack development, systems programming
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### **Version Control & Build Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
----
 
-### 🏆 My GitHub Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=Shiqe&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🤝 Let's Connect!
 - 📧 Email: mail.meran.dev
